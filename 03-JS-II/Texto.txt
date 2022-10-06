@@ -1,0 +1,4 @@
+for: Es un tipo de bucle que se utiliza en programación, que describe para quien se cumple la condición y define cuando parar.
+&&:  Significa and y lo que hace es que el sistema debe verificar que dos elementos se cumplan, si una de los condiciones no llega a cumplirse, inmediantamente da un error.
+||: Significa or y lo que hace es que el sistema debe verificar que uno de los dos elementos se cumplan, puede cumplirse cualquiera de los dos para obtener true.
+!: Es el operador NOT, el cual invierte el elemento a trabajar.
