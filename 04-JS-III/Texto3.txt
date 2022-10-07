@@ -1,0 +1,2 @@
+Array: es un arreglo en el cual podemos acceder a diferentes datos, como lista de nombre, entre otros. 
+    Por lo cual podemos decir que las matrices son contenedores de información.
